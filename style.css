@@ -11,11 +11,12 @@
 .nav {
     display: flex;
     gap: 30px;
-    
+
 }
-.nav1{
-    background: rgb(56, 227, 56);
-    
+
+.nav1 {
+    background: rgb(144, 252, 144);
+
 }
 
 .fa-bars {
